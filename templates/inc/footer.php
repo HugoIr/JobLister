@@ -5,7 +5,3 @@
     </div> <!-- /container -->
 </body>
 </html>
-
-<script>
-    import 'css/bootstrap.min.css';
-</script>
